@@ -1,0 +1,23 @@
+{
+  "name": "webApp1",
+  "version": "0.0.0",
+  "description": "Fist node website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderbilal/FirstNodeWebsite.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "bilal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/coderbilal/FirstNodeWebsite/issues"
+  }
+}
